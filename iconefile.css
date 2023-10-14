@@ -1,0 +1,10 @@
+.icons a
+{
+	text-decoration:none;;
+	text-transform: uppercase;
+	padding: 10px;
+	font-size: 22px;
+	font-family: 'Oswald', sans-serif;
+	margin: 2px;
+	text-align: right;
+}
